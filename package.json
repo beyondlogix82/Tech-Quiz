@@ -1,0 +1,12 @@
+{
+  "name": "com.mycompany.app",
+  "displayName": "Tech Quiz",
+  "version": "1.0.0",
+  "description": "My packaged HTML app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Author",
+  "license": "Apache-2.0"
+}
